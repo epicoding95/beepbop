@@ -3,7 +3,7 @@
 #### A program that allows you to take user input and change it into a certain list of commands
 
 #### By Kelar Crisp
-## When 1 is the highest number you get the answer of beep, when 2 is the highest number you get bop and when 3 is the highest number entered you get the answer "I'm sorry Dave, I'm afraid i cant do that."
+## When 1 is the highest number you get the answer of "beep", when 2 is the highest number you get "bop" and when 3 is the highest number entered you get the answer "I'm sorry Dave, I'm afraid i can't do that."
 
 A website created with HTML,CSS, and Javascript. Also this webpage has the help of bootstrap and jQuery.
 
