@@ -26,14 +26,16 @@ function myFunction(userInput){
     }
     else if ([i].includes(2)) {
       myArray.push(boop)
-  }
-  else if ([i].includes(1)) {
+    }
+    else if ([i].includes(1)) {
     myArray.push(beep)
-}
+    }
+    else if ([i].includes(0)) {
+    myArray.push(0)
 
+}
 
 }
 console.log(myArray);
-return (myArray);
 
 }
