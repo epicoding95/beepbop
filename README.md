@@ -1,12 +1,13 @@
-# Scrabble Score Checker
+# BeepBop
 
-#### A program that allows users to input a word and determine its raw Scrabble score, assuming no special tiles. 6/1/17
+#### A program that allows you to take user input and change it into a certain list of commands
 
-#### By **Marilyn Carlin and David Wilson**
+#### By Kelar Crisp
+## When 1 is the highest number you get the answer of beep, when 2 is the highest number you get bop and when 3 is the highest number entered you get the answer "I'm sorry Dave, I'm afraid i cant do that."
 
-## Description
+A website created with HTML,CSS, and Javascript. Also this webpage has the help of bootstrap and jQuery.
 
-A website created with C# and HTML where a user can submit a word and determine its raw Scrabble score.
+
 
 
 ### Specs
@@ -17,7 +18,6 @@ A website created with C# and HTML where a user can submit a word and determine 
 | **Program sees if the user input contains "1" if so then it displays: "beep".** |  "1"| "beep"|
 | **Program sees if the user input contains "2" if so then it displays: "beep, bop"**|"2" |"2"|
 | **Program sees if the user input conatains a "3" if so then it displays: "beep,bop,"I'm sorry Dave, I'm afraid I cant do that."**| "2" |"2" |
-| **Program sees if the user input conatains a "3" if so then it displays: "beep,bop,"I'm sorry Dave, I'm afraid I cant do that."**| "3" |"3" |
 | **Program sees if the user input contains anything without 1,2,3 if so it will display the number itself**| "4" | Output: "beep,bop,I'm sorry Dave, I'm afraid I cant do that." |
 | ****| "" | "" |
 
