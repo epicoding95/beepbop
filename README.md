@@ -15,8 +15,8 @@ A website created with HTML,CSS, and Javascript. Also this webpage has the help 
 | :-------------     | :------------- | :------------- |
 | **Program Gathers User Input** | "5"| "5"  |
 | **Program sees if the user input contains "1" if so then it displays: "beep".** |  "1"| "beep"|
-| **Program sees if the user input contains "2" if so then it displays: "beep, bop"**|"2" |"2"|
-| **Program sees if the user input conatains a "3" if so then it displays: "beep,bop,"I'm sorry Dave, I'm afraid I cant do that."**| "3" |"3" |
+| **Program sees if the user input contains "2" if so then it displays: "beep, bop"**|"2" |"boop"|
+| **Program sees if the user input conatains a "3" if so then it displays: "beep,bop,"I'm sorry Dave, I'm afraid I cant do that."**| "3" |"beep,bop,"I'm sorry Dave, I'm afraid I cant do that" |
 | **Program sees if the user input contains anything without 1,2,3 if so it will display the number itself**| "4" | Output: "beep,bop,I'm sorry Dave, I'm afraid I cant do that." "4" |
 
 
