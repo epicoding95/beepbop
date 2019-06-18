@@ -5,10 +5,11 @@ $(document).ready(function() {
     event.preventDefault();
     var userInput = parseInt($("input#number").val());
 
-    $("#output").text(userInput);
+    $("#output").text;
+
     myFunction(userInput);
-
-
+  });
+  });
 
 
 //buisness
@@ -17,32 +18,39 @@ function myFunction(userInput){
   var beep = "beep";
   var boop = "boop";
   var myArray =[];
-  for (var i = 0; i <= userInput; i++){
 
-    if (userInput === "") {
-      return NaN;}
 
-        for (var i = 0; i <= userInput; i++){
+// debugger;
+    for (var i = 0; i <=userInput; i++){
+    myArray.splice(i.toString());
+
+
           if (userInput === ""){
             return NaN;
-          } else if ([i].includes(3)){
-            myArray.push(dave);
+          } else if (i.toString().includes(3)){
+            myArray.splice(i,1,dave);
+          // console.log(myArray);
+          } else if (i.toString().includes(2)){
+            myArray.splice(i,1, boop);
 
-          } else if ([i].includes(2)){
-            myArray.push(boop);
-
-          } else if ([i].includes(1)){
-            myArray.push(beep);
-
-          }  else if ([i].includes(0)){
-            myArray.push(0);
-          }
-
+          } else if (i.toString().includes(1)){
+            myArray.splice(i,1, beep);
 
           }
+           else (myArray.push(i));
+
+          }
+          console.log(myArray);
         }
 
-    console.log(myArray)
-    }
-  });
-});
+
+
+
+
+
+
+
+
+
+
+    // console.log(myArray);
