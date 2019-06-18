@@ -40,7 +40,7 @@ function myFunction(userInput){
            else (myArray.push(i));
 
           }
-          console.log(myArray);
+        $("#output").text(myArray);
         }
 
 

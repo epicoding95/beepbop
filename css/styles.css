@@ -1,0 +1,18 @@
+h1{
+  color: white
+}
+form{
+  font-family: fantasy;
+  color: white
+
+}
+
+body {
+  background-image:url(../img/beepboop3.jpeg);
+  background-size: cover
+
+
+}
+#output{
+  color: white;
+}
