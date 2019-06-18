@@ -18,7 +18,7 @@ A website created with HTML,CSS, and Javascript. Also this webpage has the help 
 | **Program sees if the user input contains "2" if so then it displays: "beep, boop"**|"2" |"0,beep,boop"|
 | **Program sees if the user input conatains a "3" if so then it displays: "0,beep,boop,"I'm sorry Dave, I'm afraid I cant do that."**| "3" |"0,beep,boop,"I'm sorry Dave, I'm afraid I cant do that" |
 | **Program sees if the user input contains anything without 1,2,3 if so it will display the number itself**| "4" | Output: "0,beep,boop,I'm sorry Dave, I'm afraid I cant do that." "4" |
-| **The higher the number, the higher the priority. So 3 has priority over 2 and 2 has priority over 1 ** | "3"| "0,beep,boop,"I'm sorry Dave, I'm afraid I cant do that."  |
+| **The higher the number, the higher the priority. So 3 has priority over 2 and 2 has priority over 1 ** | "3"| "0,beep,boop,"I'm sorry Dave, I'm afraid I cant do that." ** |
 
 
 ## Setup/Installation Requirements
